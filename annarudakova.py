@@ -1,0 +1,1 @@
+A ="welcome to NEW ZEALAND "
